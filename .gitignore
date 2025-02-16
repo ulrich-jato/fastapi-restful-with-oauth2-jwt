@@ -1,0 +1,45 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+fastapienv/
+env/
+*.env
+
+# Pytest cache
+.cache/
+
+# mypy
+.mypy_cache/
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+
+# Log files
+*.log
+
+# SQLite database
+*.sqlite3
+
+# Alembic migrations
+alembic/versions/
+
+# .env file to store sensitive environment variables
+.env
+
+# Docker files
+docker-compose.override.yml
+Dockerfile
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+todosapp.db
