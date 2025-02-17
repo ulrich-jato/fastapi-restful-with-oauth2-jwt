@@ -43,3 +43,4 @@ Dockerfile
 # Windows
 Thumbs.db
 todosapp.db
+testdb.db
